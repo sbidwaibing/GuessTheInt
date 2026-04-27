@@ -29,7 +29,7 @@ chmod +x run.sh
 Uses CMake if available, falls back to g++/clang++.
 
 ## Project Structure
-
+```
 GuessInt/
 │
 ├── src/
@@ -51,7 +51,7 @@ GuessInt/
 ├── CMakeLists.txt
 ├── test.sh
 ├── .gitignore
-
+```
 ## Requirements
 
 - C++17 compiler (g++ or clang++)
